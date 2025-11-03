@@ -43,8 +43,7 @@ I get a good impression, I carry out my project with all the possible quality an
 
 * FOOTER
 footer__social
-https://www.facebook.com/
-https://www.instagram.com/
-https://twitter.com/
+https://github.com/vortexwiju-ui
+https://wa.me/message/7UW5FHUHGKRDO1
 
 
